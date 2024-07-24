@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, my name is Theophilus Kofi BONSU
+#### Transport Logistics and International Trade
+I'm an enthusiastic and dedicated professional aspiring to excel in the field of Transport Logistics and International Trade. With a solid educational background in Engineering, Data Science, Business Intelligence and a keen analytical mindset, I am committed to designing innovative solutions to optimize Logistics Operations, improve Supply Chain efficiency and boost International Trade.
 
-<!--
-**Kofi-Zone/Kofi-Zone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PYTHON / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
