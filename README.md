@@ -4,7 +4,13 @@ I'm an enthusiastic and dedicated professional aspiring to excel in the field of
 
 Skills: PYTHON / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
+- 🌱 I’m currently learning Master Transport Logistics and International Trade 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kofi-Zone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/theophilus-kofi-bonsu//)  
+
+
 
 
 
