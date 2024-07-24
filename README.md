@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **theobonsu.tb@gmail.com**
 
+- 📄 Know about my experiences [Committed to delivering data-driven solutions that optimize business processes and enhance decision-making.](Committed to delivering data-driven solutions that optimize business processes and enhance decision-making.)
+
+- ⚡ Fun fact **Proficient in data analysis tools, statistical techniques, and leveraging an analytical mindset to extract actionable insights from complex datasets.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/theophilus kofi bonsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theophilus kofi bonsu" height="30" width="40" /></a>
